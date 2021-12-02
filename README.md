@@ -45,7 +45,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 Temporary notes on cs241 of computer os and networking
 
 ### Resources I'll use
-Reddit post with sites: [uwu touch me xd](https://www.reddit.com/r/CompTIA/comments/isqga0/dont_understand_networking/) 
+Resources I've used, if you want them, will you sacrifice your dignity by asking her next to me 👉 : [uwu touch me xd](https://www.reddit.com/r/CompTIA/comments/isqga0/dont_understand_networking/) 
 
 # JavaTPoint Notes
 
